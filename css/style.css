@@ -45,3 +45,18 @@ body {
     position: absolute;
     z-index: 99;
 }
+
+.calls-to-action {
+}
+
+.calls-to-action img {
+    opacity: 0.3;
+    position: absolute;
+    bottom: 50%;
+    transform: translateY(50%);
+}
+
+.calls-to-action img.right {
+    right: 0;
+}
+
